@@ -30,3 +30,7 @@ import spacy
 
 nlp = spacy.load('en_core_web_sm')
 `
+
+
+webpage for documentation--- https://www.youtube.com/watch?v=dIUTsFT2MeQ
+
