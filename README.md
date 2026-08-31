@@ -8,3 +8,5 @@ i found it kinda interesting
 naturally i started vibe coding and made my first project 
 
 vibe code(sentiment-analysis) - https://github.com/heer2300/Learning-LNP-Natural-Language-Processing-/blob/main/vibe%20code%20(sentiment-analysis)
+
+/vibe code (sentiment-analysis)
