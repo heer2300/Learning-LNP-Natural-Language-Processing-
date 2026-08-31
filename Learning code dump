@@ -1,0 +1,23 @@
+import spacy
+from sympy.codegen import Print
+from sympy.printing.tree import print_node
+
+nlp = spacy.load('en_core_web_sm')
+
+with open("wiki_us.txt") as f:
+    tt = f.read()
+
+print(tt)
+
+doc = nlp(tt)
+
+print(doc)
+print(len(tt))
+
+print(len(doc))
+
+for token in tt[0:10]:
+    print(token)
+print("-------------------------------------------/n")
+for token in doc[0:10]:
+    print(token)
