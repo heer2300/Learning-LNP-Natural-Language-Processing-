@@ -32,5 +32,11 @@ nlp = spacy.load('en_core_web_sm')
 `
 
 
-webpage for documentation--- https://www.youtube.com/watch?v=dIUTsFT2MeQ
+webpage for documentation
+
+book - https://spacy.pythonhumanities.com/intro.html
+
+i have used wiki_us.txt for my practice and code fun 
+
+
 
