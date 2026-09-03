@@ -40,3 +40,8 @@ i have used wiki_us.txt for my practice and code fun
 
 
 
+
+at the half a way to the video and i don't know what is going on right now 
+
+
+
