@@ -39,3 +39,12 @@ print(doc1.similarity(doc2))
 print(doc1.similarity(doc3))
 print(doc4.similarity(doc3))
 print(doc5.similarity(doc6))
+
+
+
+
+# nlp = spacy.load("en_core_web_sm")
+# 
+# nlp.add_pipe("sentencizer")
+# nlp.analyze_pipes()
+
