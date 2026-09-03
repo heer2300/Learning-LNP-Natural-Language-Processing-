@@ -43,8 +43,8 @@ print(doc5.similarity(doc6))
 
 
 
-# nlp = spacy.load("en_core_web_sm")
-# 
-# nlp.add_pipe("sentencizer")
-# nlp.analyze_pipes()
+nlp = spacy.load("en_core_web_sm")
+
+nlp.add_pipe("sentencizer")
+nlp.analyze_pipes()
 
